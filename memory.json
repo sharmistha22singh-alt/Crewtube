@@ -1,0 +1,17 @@
+[
+    {
+        "video_id": "mock_video_id_123",
+        "views": 15000,
+        "retention_rate": 0.65
+    },
+    {
+        "video_id": "mock_video_id_123",
+        "views": 15000,
+        "retention_rate": 0.65
+    },
+    {
+        "video_id": "mock_video_id_123",
+        "views": 15000,
+        "retention_rate": 0.65
+    }
+]
